@@ -1,4 +1,6 @@
-# Data Mining and Warehouse\Image Classification with TensorFlow: Rock, Paper, Scissors
+# Data Mining and Warehouse
+
+# Image Classification with TensorFlow: Rock, Paper, Scissors
 
 ## Overview
 
